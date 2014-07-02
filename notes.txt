@@ -1,3 +1,5 @@
 https://www.youtube.com/watch?v=ddlDgUymbxc&feature=youtu.be
 
 HS-55
+
+Servoblaster is wired similarly, except control wire goes to 17 which is channel 1
